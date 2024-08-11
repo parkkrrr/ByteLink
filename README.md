@@ -23,8 +23,8 @@ ByteLink is a simple and efficient URL shortener application built with Node.js,
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/parkkrrr/bytelink.git
-   cd bytelink
+   git clone https://github.com/parkkrrr/ByteLink.git
+   cd ByteLink
    ```
 
 2. **Install dependencies:**
